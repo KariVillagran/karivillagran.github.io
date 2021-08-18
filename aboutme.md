@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre mi
+subtitle: Hacer que las cosas pasen es solo una forma de crear un mundo mejor.
 ---
 
-My name is Ana Villagran. I have the following qualities:
+Mi nombre es Ana Villagran, me presento:
 
-- I love to my dogs
-- I love dev 
+- Adoro a mis dogos 🐶🐶
+- "Quiero hacer programas" fue mi inicio en este universo
 
 What else do you need?
 
-### My story
+### My story 🦊
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+WIP
