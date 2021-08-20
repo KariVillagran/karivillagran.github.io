@@ -15,10 +15,9 @@ author: Ana Villagran Ibarra (akvi)
 
 navbar-links:
   Sobre mi: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://karivillagran.github.com"
+  Recursos:
+    - Github: "https://github.com/KariVillagran"
+  Author's home: "https://karivillagran.github.io"
 
 # --- Logo --- #
 
@@ -47,7 +46,7 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: ana-villagrán-ibarra-6977bb6b
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
