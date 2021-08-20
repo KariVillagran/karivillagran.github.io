@@ -39,13 +39,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "akarinavillagrani@gmail.com"
+  email: akarinavillagrani@gmail.com
 #  facebook: deanattali  
   github: KariVillagran
   twitter: KariVillagranI
 #  patreon: DeanAttali
 #  youtube: c/daattali
-#  medium: yourname
+  medium: akarinavillagrani
 #  reddit: yourname
   linkedin: ana-villagrán-ibarra-6977bb6b
 #  xing: yourname
