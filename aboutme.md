@@ -2,6 +2,7 @@
 layout: page
 title: Sobre mi
 subtitle: Hacer que las cosas pasen es solo una forma de crear un mundo mejor.
+language: es
 ---
 
 Mi nombre es Ana Villagran, me presento:
