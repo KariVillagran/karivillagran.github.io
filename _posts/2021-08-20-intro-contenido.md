@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Entrevistas
+subtitle: formatos, experiencias y conclusiones
+tags: [misc]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Como primer post quiero hablar sobre todo lo que he podido vivir y evidenciar a lo largo de mi carrera en distintos formatos de entrevistas, pruebas tecnicas y **errores/aciertos** de cada uno.
+I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/)
 
-**Here is some bold text**
 
 ## Here is a secondary heading
 
