@@ -20,11 +20,14 @@ Siempre es importante sentarse a pensar **¿Porque necesito esto?**, razonar sob
 
 ## Ejemplo básico
 
+Levantar un backend en node es trivial. Les comparto uno con express.
+
 [Repositorio](https://github.com/KariVillagran/basic-node-express "basic-node-express")
+
+Lo importante en este caso es lo que sigue. Entender como usar la CLI de docker.
 
 
 ```
-Código en 
-varias líneas
+
 ```
 
