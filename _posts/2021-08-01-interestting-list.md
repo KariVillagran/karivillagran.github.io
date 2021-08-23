@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Links de interes
-subtitle: IStuffs
+subtitle: stuffs
 tags: [links, misc]
 ---
 
