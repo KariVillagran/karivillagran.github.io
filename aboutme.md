@@ -9,8 +9,6 @@ Mi nombre es Ana Villagran, me presento:
 - Adoro a mis dogos 🐶🐶
 - "Quiero hacer programas" fue mi inicio en este universo
 
-What else do you need?
-
 ### My story 🦊
 
 A los 12 años decidí que queria "hacer programas", luego de ello vino lo demás.
