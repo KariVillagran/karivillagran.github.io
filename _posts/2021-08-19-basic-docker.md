@@ -38,3 +38,7 @@ docker run <your username>/basic-node-express
 ```
 
 ### Publicar 
+
+# Referencias
+
+* [https://nodejs.org/de/docs/guides/nodejs-docker-webapp/ ](URL "NodeJS official guide")
