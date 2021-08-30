@@ -24,3 +24,18 @@ A mediados 2019 cambié a Dataops para una de las empresas del grupo, apoyando l
 
 Actualmente soy Ingeniera de Sofware Backend en Neat, aportando desde el diseño tecnico hasta soporte del producto. También entrego soporte a usuarios finales directamente, manteniendo una escucha activa sobre su experiencia con la plataforma.
 Estoy en constante búsqueda de conseguir una mejor versión de mí, ser una buena persona y dar lo mejor de mí en todo lo que me gusta. Compromiso, disciplina y constancia son 3 atributos que me definen.
+
+### Educación formal
+
+* Duoc 2010 - 2015 (Ing. en informática)
+* Universidad de Santiago de Chile 2015-2018 (Ing. civil en Informática). Tesis: Método de clustering multi-objetivo para el análisis de datos de expresión génica 
+
+### Cursos
+
+* Coursera: GCP (Infrastructure, Devops, Architect)
+* Udemy: Azure (AZ-104 Administrator), Docker, Angular
+* KodeKloud: Kubernetes, Terraform
+
+### Certificaciones
+
+* AZ-104 Azure Administrator
