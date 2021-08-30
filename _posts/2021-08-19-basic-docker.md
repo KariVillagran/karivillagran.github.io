@@ -2,9 +2,9 @@
 layout: post
 title: Básico - Docker
 subtitle: Conteinerización
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.jpg
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/path.jpeg
+thumbnail-img: /assets/img/thumb.jpeg
+share-img: /assets/img/path.jpeg
 tags: [docker]
 ---
 
