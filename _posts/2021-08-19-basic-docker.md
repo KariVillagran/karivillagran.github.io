@@ -16,13 +16,14 @@ Primero la definicion de libro. *Docker is an open platform for developing, ship
 
 ## ¿Que problema buscas resolver?
 
-Siempre es importante sentarse a pensar **¿Porque necesito esto?**, razonar sobre la capacidad de la herramienta de ayudarte. Siempre hay curva de aprendizaje, pero claro, más adelante todo sera más simple.
+Siempre es importante sentarse a pensar **¿Porque necesito esto?**, razonar sobre la capacidad de la herramienta de ayudarte. 
+Siempre hay curva de aprendizaje, pero claro, más adelante todo sera más simple.
 
 ## Ejemplo básico
 
 Levantar un backend en node es trivial. Les comparto uno con express.
 
-[Repositorio](https://github.com/KariVillagran/basic-node-express "basic-node-express")
+[Repositorio backend express básico](https://github.com/KariVillagran/basic-node-express "basic-node-express")
 
 Lo importante en este caso es lo que sigue. Entender como usar la CLI de docker.
 
