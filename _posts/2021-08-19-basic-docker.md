@@ -10,11 +10,11 @@ tags: [docker]
 
 En este articulo me gustaria retomar algunos conceptos basicos para dejarlos como notas de desarrollo.
 
-## ¿Que es docker?
+## ¿Que es docker? ##
 
 Primero la definicion de libro. *Docker is an open platform for developing, shipping, and running applications*
 
-## ¿Que problema buscas resolver?
+## ¿Que problema buscas resolver? ##
 
 Siempre es importante sentarse a pensar **¿Porque necesito esto?**, razonar sobre la capacidad de la herramienta de ayudarte. 
 Siempre hay curva de aprendizaje, pero claro, más adelante todo sera más simple.
