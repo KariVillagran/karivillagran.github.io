@@ -25,6 +25,4 @@ Si en la analogia anterior queriamos ir desde lado A hacia lado B, esto se inter
 * Equilibrio de carga
 * Filtrado de contenido
 
-## Ejemplo básico en VM
 
-Primero, vamos a necesitar una VM en algun lugar para poder "jugar".
