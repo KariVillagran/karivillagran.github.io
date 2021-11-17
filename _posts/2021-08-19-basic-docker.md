@@ -45,6 +45,8 @@ docker login
 docker push <your username>/basic-node-express
 ```
 
+Con ello ya podras visualizar en tu cuenta de docker hub la publicacion. [Hub](https://hub.docker.com/r/akarinavillagrani/basic-node-express "hub basic-node-express") 
+
 ## Referencias
 
 * [NodeJS official guide](https://nodejs.org/de/docs/guides/nodejs-docker-webapp/)
