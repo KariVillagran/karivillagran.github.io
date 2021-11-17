@@ -3,7 +3,7 @@ layout: post
 title: Basic - Proxy
 subtitle: Red
 cover-img: /assets/img/path.jpeg
-thumbnail-img: /assets/img/thumb.jpeg
+thumbnail-img: /assets/img/thumb-2021-09-13-basic-reverse-proxy.png
 share-img: /assets/img/path.jpeg
 tags: [nginx]
 ---
