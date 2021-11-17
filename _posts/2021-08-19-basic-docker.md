@@ -40,7 +40,10 @@ docker run <your username>/basic-node-express
 
 ### Publicar 
 
-...
+```
+docker login
+docker push <your username>/basic-node-express
+```
 
 ## Referencias
 
