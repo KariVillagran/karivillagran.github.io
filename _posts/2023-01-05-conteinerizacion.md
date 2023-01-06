@@ -3,7 +3,7 @@ layout: post
 title: Porque nos movemos a la conteinerizacion
 subtitle: Cultura
 cover-img: /assets/img/path.jpeg
-thumbnail-img: /assets/img/thumb-defailt.jpeg
+thumbnail-img: /assets/img/thumb-default.jpeg
 share-img: /assets/img/path.jpeg
 tags: [devops]
 ---
